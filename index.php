@@ -1,11 +1,11 @@
 <?php 
 
 $mots = [
-"garage", "runway", "again", "asthma", "range",
-"pool", "warrior", "doll", "jungle", "story",
-"satoshi", "phone", "shift", "border", "coffee",
-"year", "mistake", "tourist", "myself", "despair",
-"shock", "collect", "artist", "census"
+"", "", "", "", "",
+"", "", "", "", "",
+"", "", "", "", "",
+"", "", "", "", "",
+"", "", "", ""
 ]; 
 
 
